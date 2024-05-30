@@ -1,0 +1,291 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ko' Physical Memory: 16066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2020.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55219
+Successfully changed project path to: C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_
+C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 229.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 4GB Laptop GPU (ID=0x25ab)
+    Vendor:   
+    VRAM:     3965 MB
+    Driver:   31.0.15.5152
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000916 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 210.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.533 seconds
+Domain Reload Profiling:
+	ReloadAssembly (533ms)
+		BeginReloadAssembly (36ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (455ms)
+			LoadAssemblies (34ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (83ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (19ms)
+			SetupLoadedEditorAssemblies (290ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (211ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (48ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004643 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 206.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Domain Reload Profiling:
+	ReloadAssembly (846ms)
+		BeginReloadAssembly (85ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (725ms)
+			LoadAssemblies (62ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (169ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (403ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (207ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (126ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 2.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2197 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.8 MB.
+System memory in use after: 111.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2630.
+Total: 2.155000 ms (FindLiveObjects: 0.107300 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.956700 ms  DeleteObjects: 0.062000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fccc56f7e6b9e5f69751f55fcb81239f') in 0.025023 seconds 
+  Import took 0.032151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1724.644712 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Fortress/Palettes/FG_Fortress.prefab
+  artifactKey: Guid(d94f3e4283fd0b640a0783eb8780ff6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Fortress/Palettes/FG_Fortress.prefab using Guid(d94f3e4283fd0b640a0783eb8780ff6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a0e010424587464e5dbda2a90e0694') in 0.137472 seconds 
+  Import took 0.156887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Fortress/Palettes/FG_Fortress_Winter.prefab
+  artifactKey: Guid(b2933129882997e49adb846e65cdf3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Fortress/Palettes/FG_Fortress_Winter.prefab using Guid(b2933129882997e49adb846e65cdf3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5e6bf80feef87efb0bd0112867b0c2') in 0.095941 seconds 
+  Import took 0.148920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.162402 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Fortress/Sprites/FG_Fortress.png
+  artifactKey: Guid(5f91ac6022ab44c48bed0699a839c11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Fortress/Sprites/FG_Fortress.png using Guid(5f91ac6022ab44c48bed0699a839c11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d23fb4c3ba46ff4a2acc899cd9f723f') in 0.597153 seconds 
+  Import took 0.640343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Fortress/Sprites/FG_Fortress_Winter.png
+  artifactKey: Guid(a74bafc0319227d43bfacc939beeb1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Fortress/Sprites/FG_Fortress_Winter.png using Guid(a74bafc0319227d43bfacc939beeb1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed82b97d845f2b53c64a7300166d4cf6') in 0.578113 seconds 
+  Import took 0.626495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.499018 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_0.asset
+  artifactKey: Guid(2d730e7f8c8d71641adb1df8e4002436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_0.asset using Guid(2d730e7f8c8d71641adb1df8e4002436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86227d1a754f019acf66f201f3c8963b') in 0.040653 seconds 
+  Import took 0.064477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000945 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_11.asset
+  artifactKey: Guid(d880d75d2dd2e6b40ae507ee31ade716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_11.asset using Guid(d880d75d2dd2e6b40ae507ee31ade716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3057fd731166155b1825bd434a0dce6') in 0.031889 seconds 
+  Import took 0.043345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_9.asset
+  artifactKey: Guid(d2230aaa68ec6134f8334cc190597813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_9.asset using Guid(d2230aaa68ec6134f8334cc190597813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77aadbaf2d02428f17384080942714f6') in 0.015297 seconds 
+  Import took 0.027022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_1.asset
+  artifactKey: Guid(a14f81eefc9e63d4eb3cf99353aec91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_1.asset using Guid(a14f81eefc9e63d4eb3cf99353aec91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895793173d00fafcd114eb36a3144017') in 0.015575 seconds 
+  Import took 0.025941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_10.asset
+  artifactKey: Guid(221cae2f33aeab641b55d2ede5b01ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_10.asset using Guid(221cae2f33aeab641b55d2ede5b01ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2a981f16ad9eaa9f9801416ce6e46a') in 0.015458 seconds 
+  Import took 0.025292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_7.asset
+  artifactKey: Guid(08378857cc72c34499070473a66d9820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_7.asset using Guid(08378857cc72c34499070473a66d9820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e76fba1881309ea588854424b915664') in 0.014013 seconds 
+  Import took 0.023174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_12.asset
+  artifactKey: Guid(476ee583a9dbfe24a8b123d0f5a3fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_12.asset using Guid(476ee583a9dbfe24a8b123d0f5a3fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ffba6638ddd2efa8bbf0a62f4f23a2f') in 0.014247 seconds 
+  Import took 0.023117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_13.asset
+  artifactKey: Guid(5d9ba2c9179abfe4a88930207527b3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_13.asset using Guid(5d9ba2c9179abfe4a88930207527b3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6795dda5e0241baa413bbc27a5ec930') in 0.014495 seconds 
+  Import took 0.024579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_8.asset
+  artifactKey: Guid(0851ae47466975e49b0003d36e01794a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_8.asset using Guid(0851ae47466975e49b0003d36e01794a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b3b35c0d0194af97e65f9fa6871e44') in 0.014328 seconds 
+  Import took 0.025414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_2.asset
+  artifactKey: Guid(efc154587d77a1e489fc256386239190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_2.asset using Guid(efc154587d77a1e489fc256386239190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d423f5c05f3e4a6dfa3a77ac37dacc') in 0.013131 seconds 
+  Import took 0.023841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_6.asset
+  artifactKey: Guid(1816ab578d2cbea42a07abe2b598ed02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_6.asset using Guid(1816ab578d2cbea42a07abe2b598ed02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b49f505729a4505baa6e5d7114fc89') in 0.017246 seconds 
+  Import took 0.027641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001380 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_3.asset
+  artifactKey: Guid(7dbc7750bb8af744ab696155c828cc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_3.asset using Guid(7dbc7750bb8af744ab696155c828cc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b816756f874ff1d867dfd41e1530dea') in 0.016321 seconds 
+  Import took 0.026188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_14.asset
+  artifactKey: Guid(60d53512ef555344e839a99dd46a441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_14.asset using Guid(60d53512ef555344e839a99dd46a441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f334646536aa249e602012e6eff384') in 0.013665 seconds 
+  Import took 0.022380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_5.asset
+  artifactKey: Guid(a859d7d321acda54c8be5ed326dd4bb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_5.asset using Guid(a859d7d321acda54c8be5ed326dd4bb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7f5490d2e50e6dcf275b6a05691737') in 0.017030 seconds 
+  Import took 0.028134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_4.asset
+  artifactKey: Guid(8c3d2a0080d9dd24f9ee1230e1e0e328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Tilesets/Extras/Sprites/FG_Extras_4.asset using Guid(8c3d2a0080d9dd24f9ee1230e1e0e328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8fb1cb429601943fb0bd125406101d') in 0.014553 seconds 
+  Import took 0.024748 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

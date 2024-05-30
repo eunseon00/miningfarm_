@@ -1,123 +1,123 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ko' Physical Memory: 16092 MB
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ko' Physical Memory: 16066 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-C:\Users\sally\2020.3.27f1\Editor\Unity.exe
+C:\Program Files\Unity 2020.3.27f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/sally/Desktop/github/miningfarm_/miningfarm_
+C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63318
-Successfully changed project path to: C:/Users/sally/Desktop/github/miningfarm_/miningfarm_
-C:/Users/sally/Desktop/github/miningfarm_/miningfarm_
+56792
+Successfully changed project path to: C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_
+C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 285.14 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 761.30 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.27f1 (e759542391ea)
-[Subsystems] Discovering subsystems at path C:/Users/sally/2020.3.27f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/sally/Desktop/github/miningfarm_/miningfarm_/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/soneu/OneDrive/문서/GitHub/miningfarm_/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Renderer: NVIDIA GeForce RTX 3050 4GB Laptop GPU (ID=0x25ab)
     Vendor:   
-    VRAM:     8046 MB
-    Driver:   30.0.100.9836
+    VRAM:     3965 MB
+    Driver:   31.0.15.5152
 Initialize mono
-Mono path[0] = 'C:/Users/sally/2020.3.27f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Users/sally/2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Users/sally/2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56268
+Mono path[0] = 'C:/Program Files/Unity 2020.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56120
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Users/sally/2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001752 seconds.
+Register platform support module: C:/Program Files/Unity 2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001664 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 266.58 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 610.74 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.772 seconds
+- Completed reload, in  1.410 seconds
 Domain Reload Profiling:
-	ReloadAssembly (772ms)
-		BeginReloadAssembly (52ms)
+	ReloadAssembly (1410ms)
+		BeginReloadAssembly (96ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (653ms)
-			LoadAssemblies (51ms)
+		EndReloadAssembly (1235ms)
+			LoadAssemblies (95ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (137ms)
+			SetupTypeCache (185ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (388ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (833ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (267ms)
-				BeforeProcessingInitializeOnLoad (15ms)
-				ProcessInitializeOnLoadAttributes (75ms)
-				ProcessInitializeOnLoadMethodAttributes (28ms)
+				RefreshPlugins (611ms)
+				BeforeProcessingInitializeOnLoad (32ms)
+				ProcessInitializeOnLoadAttributes (144ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005706 seconds.
+Registered in 0.011263 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 313.00 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 244.06 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.404 seconds
+- Completed reload, in  1.143 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1405ms)
-		BeginReloadAssembly (139ms)
+	ReloadAssembly (1144ms)
+		BeginReloadAssembly (132ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (1199ms)
-			LoadAssemblies (103ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (954ms)
+			LoadAssemblies (91ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (315ms)
+			SetupTypeCache (288ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (611ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (468ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (2ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (313ms)
-				BeforeProcessingInitializeOnLoad (85ms)
-				ProcessInitializeOnLoadAttributes (189ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (4ms)
+				RefreshPlugins (244ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (149ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 2.99 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 8.85 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2197 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 111.8 MB.
 System memory in use after: 111.9 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2630.
-Total: 2.976500 ms (FindLiveObjects: 0.178200 ms CreateObjectMapping: 0.088200 ms MarkObjects: 2.648500 ms  DeleteObjects: 0.060100 ms)
+Total: 7.789700 ms (FindLiveObjects: 0.352500 ms CreateObjectMapping: 0.101800 ms MarkObjects: 7.150500 ms  DeleteObjects: 0.181200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,25 +131,217 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/UI/Sprite
-  artifactKey: Guid(a237933e034c3eb4383cc55010bd4da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Sprite using Guid(a237933e034c3eb4383cc55010bd4da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c8984a5e4c90cdd437f2b0378b27a1') in 0.020673 seconds 
-  Import took 0.025097 seconds .
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Down.png
+  artifactKey: Guid(2d5e283e6b072fc47b7aff9b36d516c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Down.png using Guid(2d5e283e6b072fc47b7aff9b36d516c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c780a0303965c4e91d0afee9aae19b') in 0.156238 seconds 
+  Import took 0.164230 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000277 seconds.
-  path: Assets/UI/Sprite/F200.png
-  artifactKey: Guid(ce1c71482226f7f4eb2c4fa4e1637327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Sprite/F200.png using Guid(ce1c71482226f7f4eb2c4fa4e1637327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493cd23c30df37a93ab400518e8b6851') in 1.375428 seconds 
-  Import took 1.382909 seconds .
+  Time since last request: 0.000286 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Right.png
+  artifactKey: Guid(5bb2adf64c7713647b1126d22c3110db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Right.png using Guid(5bb2adf64c7713647b1126d22c3110db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e38f9cb63cd04f43a0201f379fe0e533') in 0.006637 seconds 
+  Import took 0.011062 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/UI
-  artifactKey: Guid(43ff6d13337caf841800b6f0ed09654a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI using Guid(43ff6d13337caf841800b6f0ed09654a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07dc2880863bd71d8f7dff6d4551fbae') in 0.017615 seconds 
-  Import took 0.022932 seconds .
+  Time since last request: 0.000153 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Right.png
+  artifactKey: Guid(b1d6bc4907e57ef4abf8fc356f91ac99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Right.png using Guid(b1d6bc4907e57ef4abf8fc356f91ac99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1d33f8d10a7ac995e7213b2afbb2f5') in 0.007854 seconds 
+  Import took 0.012121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Right.png
+  artifactKey: Guid(e95cb7d7d38a60348ac58dfac8c16a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Right.png using Guid(e95cb7d7d38a60348ac58dfac8c16a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0155baf465e89a632ee7d522a7b90003') in 0.010035 seconds 
+  Import took 0.018335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Up.png
+  artifactKey: Guid(b1260fe82279d9241a78124e63b1affc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Up.png using Guid(b1260fe82279d9241a78124e63b1affc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c246c2f7d52397d965b25cdff8381f99') in 0.007063 seconds 
+  Import took 0.012348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Left.png
+  artifactKey: Guid(ca5c9f468c5dbe24ea5b70d17f32271b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Left.png using Guid(ca5c9f468c5dbe24ea5b70d17f32271b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b408fb979808f3f0e75286c1f4f77b62') in 0.007149 seconds 
+  Import took 0.011535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Up.png
+  artifactKey: Guid(4a04a9e2b51493e4b8218848ee4287c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Up.png using Guid(4a04a9e2b51493e4b8218848ee4287c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a6703d89f9495b651922c4ff22ce0c') in 0.007510 seconds 
+  Import took 0.011911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Up.png
+  artifactKey: Guid(bc083191cb921fa4398c81714b4e1a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Up.png using Guid(bc083191cb921fa4398c81714b4e1a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e89b7e0a3a42d42534cfb93ef6365228') in 0.005593 seconds 
+  Import took 0.010117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Left.png
+  artifactKey: Guid(c8f8ed401c2027e43a92087754a7d59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Left.png using Guid(c8f8ed401c2027e43a92087754a7d59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2782b8a1b28554c4bccbbaa5df80f4') in 0.007774 seconds 
+  Import took 0.015147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Right.png
+  artifactKey: Guid(0e332eda9651f3f4c9ebe5fd4509abce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Right.png using Guid(0e332eda9651f3f4c9ebe5fd4509abce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09094b47d1a8c358c8a86e81832a17e3') in 0.006869 seconds 
+  Import took 0.013104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Up.png
+  artifactKey: Guid(2012de7836b1ca24e8242efd55773cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Up.png using Guid(2012de7836b1ca24e8242efd55773cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ff483b5a89902f82393dae9263d5fe') in 0.006768 seconds 
+  Import took 0.010686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Down.png
+  artifactKey: Guid(81995450fef28214e845f8cf288275ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Down.png using Guid(81995450fef28214e845f8cf288275ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a9e0484ca92bd028b562b7837ca2ad') in 0.006943 seconds 
+  Import took 0.010584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Right.png
+  artifactKey: Guid(17ab011a918a2e64bb02bf34349b2cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Right.png using Guid(17ab011a918a2e64bb02bf34349b2cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875f77fe03cebeed9c7b455cdcac7c9b') in 0.006533 seconds 
+  Import took 0.011169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Left.png
+  artifactKey: Guid(f13c6da13b6de0342874c3182c03ec25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Left.png using Guid(f13c6da13b6de0342874c3182c03ec25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824299aedf3d8ece0e3568f3c5b98ee8') in 0.006878 seconds 
+  Import took 0.010841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Dead.png
+  artifactKey: Guid(0da4d9372a0927f4faa8c182bd2cdbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Dead.png using Guid(0da4d9372a0927f4faa8c182bd2cdbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b2cbd2825a7be4cfb1b308d9d8a022') in 0.007310 seconds 
+  Import took 0.010797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Left.png
+  artifactKey: Guid(d48482eb0c9b7264abd68804622a257f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Pickaxe_Left.png using Guid(d48482eb0c9b7264abd68804622a257f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd92b7e4a5366b611b07db36767eb98') in 0.006450 seconds 
+  Import took 0.010424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Right.png
+  artifactKey: Guid(9f0cdc193e8cbd141805cfbcf1c41ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Right.png using Guid(9f0cdc193e8cbd141805cfbcf1c41ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7c5e062b744a900abc1c62489952f8') in 0.006533 seconds 
+  Import took 0.010768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Down.png
+  artifactKey: Guid(1080ff240a2acc149b808cd9d36478b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Down.png using Guid(1080ff240a2acc149b808cd9d36478b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b69f77abcd558c799058f14d4d14173') in 0.007776 seconds 
+  Import took 0.012413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Down.png
+  artifactKey: Guid(a50274cfa9dfb0a4283fe0724602e97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Hoe_Down.png using Guid(a50274cfa9dfb0a4283fe0724602e97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb32595c47835b745aba8b3e8dfdb9bf') in 0.006973 seconds 
+  Import took 0.011325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Up.png
+  artifactKey: Guid(f3a84720c6e7a544e98b921b352df8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Up.png using Guid(f3a84720c6e7a544e98b921b352df8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e8095e835defe8629aff08456402d1') in 0.007176 seconds 
+  Import took 0.011716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Down.png
+  artifactKey: Guid(9eddd4e963f599b4aa5159f54dbadb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Walk_Down.png using Guid(9eddd4e963f599b4aa5159f54dbadb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6434a2391fc341e271b6d18e7d8872') in 0.007679 seconds 
+  Import took 0.012767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Up.png
+  artifactKey: Guid(8f0d70ddec7f79440b9e3486b6863ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Up.png using Guid(8f0d70ddec7f79440b9e3486b6863ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea29a9d05b879964497ffe06ac3785c') in 0.006672 seconds 
+  Import took 0.011691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Left.png
+  artifactKey: Guid(aaa3a9d77528ffb4baf5bde7a50187d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Sword_Left.png using Guid(aaa3a9d77528ffb4baf5bde7a50187d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc08cdda3dde11a0bf1bda820ff53349') in 0.006679 seconds 
+  Import took 0.011344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Left.png
+  artifactKey: Guid(c84d76afb4f2da448a08b1bdc1d5f1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Left.png using Guid(c84d76afb4f2da448a08b1bdc1d5f1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b711b3ce45d99ea9bcd7ccc46185182f') in 0.006963 seconds 
+  Import took 0.011016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16.png
+  artifactKey: Guid(c2d86835045e5f6439a37347ddede671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16.png using Guid(c2d86835045e5f6439a37347ddede671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff5c6656fb9350e1b4a7b9a781cf222') in 0.014141 seconds 
+  Import took 0.018557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Down.png
+  artifactKey: Guid(d0c5e3ecf2ac8844f95ac382abc2d1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Axe_Down.png using Guid(d0c5e3ecf2ac8844f95ac382abc2d1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79757cf5480c33a9bfee9ea8a41d4dfa') in 0.007690 seconds 
+  Import took 0.011472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.322074 seconds.
+  path: Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Down.png
+  artifactKey: Guid(81995450fef28214e845f8cf288275ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ElvGames/Farm Game World/Characters/Character16/Character16_Watercan_Down.png using Guid(81995450fef28214e845f8cf288275ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75dbc0824101f51169268a80b7a5313c') in 0.060194 seconds 
+  Import took 0.066489 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
